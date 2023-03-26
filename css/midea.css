@@ -1,0 +1,191 @@
+/* @media only screen and (max-width:400px) {
+    .container {
+        width: 100%;
+    }
+
+    .row {
+        flex-wrap: wrap;
+    }
+
+    .col-25 {
+        width: 100%
+    }
+    .btn{
+        padding: 5px 22px;
+    }
+    textarea{
+        width: 90%;
+    }
+    .col-50{
+        width: 100%;
+    }
+    .ditel h2{
+        font-size: 20px;
+    }
+    .texarre h2 {
+        font-size: 20px;
+    }
+    .mera{
+        display: none;
+    }
+    .section_3::before{
+        display: none;
+    }
+    .flax{
+        display: none;
+    }
+} */
+@media only screen and (max-width:1190px) {
+    .container {
+        width: 100%;
+    }
+
+    .section_3::before {
+        width: 208px;
+    }
+}
+
+@media only screen and (max-width:968px) {
+    .row {
+        flex-wrap: wrap;
+    }
+
+    .col-25 {
+        width: 50%;
+        padding: 0 40px;
+    }
+
+    .flax {
+        display: none;
+    }
+
+    .section_3::before {
+        display: none;
+    }
+
+    .section_3 {
+        background-image: url(../images/doctor-bg1.png);
+    }
+
+    .treas {
+        max-width: 74%;
+        margin: 0;
+    }
+
+    .mera {
+        padding: 20px 0;
+    }
+
+    .imgback2 {
+        padding: 0;
+    }
+
+    .tex_box {
+        padding: 30px 0;
+    }
+
+    .ditel p {
+        padding: 0 10px;
+    }
+
+    .tex_box2 {
+        width: 90%;
+    }
+
+    .w-50 {
+        width: 80%;
+    }
+
+    .p-90 {
+        padding: 50px 0;
+    }
+}
+
+@media only screen and (max-width:812px) {
+    .dn {
+        display: none;
+    }
+
+    .ma {
+        margin: 0 auto;
+    }
+
+    .tex_box {
+        padding: 62px 0;
+    }
+
+    #section_1 {
+        background-size: cover;
+    }
+
+    .tex_box h2 {
+        font-size: 38px;
+    }
+
+    .imgback {
+        padding: 50px;
+    }
+    .manu ul li a{
+        color: white;
+    }
+
+}
+
+@media only screen and (max-width:722px) {
+    .col-50 {
+        width: 100%;
+    }
+
+    .imgback {
+        padding: 0 100px;
+    }
+
+    .imgback2 {
+        padding: 50px;
+    }
+
+    .imabacks {
+        padding: 50px;
+    }
+
+    .texarre {
+        width: 100%;
+        text-align: center;
+    }
+
+    textarea {
+        width: 90%;
+    }
+    .manu ul li a{
+        color: white;
+    }
+}
+
+@media only screen and (max-width:612px) {
+    .col-25 {
+        width: 100%;
+    }
+
+    .ditel p {
+        padding: 0 10px;
+    }
+
+    .texarre h2 {
+        width: 100%;
+    }
+
+    .treas {
+        text-align: center;
+        max-width: 100%;
+        margin: 0;
+        padding: 15px;
+    }
+
+    .treas p {
+        max-width: 100%;
+    }
+
+    .texarre h2 {
+        font-size: 30px;
+    }
+}

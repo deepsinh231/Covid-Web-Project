@@ -1,0 +1,26 @@
+.Protect {
+    background-image: url(../images/header-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.project_tex {
+    padding: 100px 50px;
+    color: white;
+    word-spacing: 10px;
+}
+
+.project_tex h1 {
+    font-size: 50px;
+    padding: 20px 0;
+    font-weight: 500;
+}
+
+.project_tex p {
+    font-size: 25px;
+}
+@media only screen and (max-width:620px){
+    .project_tex h1 {
+        font-size: 29px;
+    }
+} 

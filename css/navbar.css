@@ -1,0 +1,39 @@
+/* /* .addclass{
+    z-index: 100;
+    opacity: 1;
+} */
+.remove{
+    z-index: -100;
+    opacity: 0;  
+}
+nav{
+    display: grid;
+    place-items: center;
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    z-index: 1000;
+    background-color: rgba(0, 0, 0, 0.514);
+}
+.icon11{
+    margin-left: 90%;
+}
+.casll1{
+    width: 100%;
+}
+.casll1 a{
+    text-decoration: none;    
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 5px 0;
+    font-weight: 900;
+    font-size: 40px;
+
+} 
+.icon11 i{
+    color: white;
+}
+.casll1 a:hover,.icon11 i:hover{
+ color: red;
+}
