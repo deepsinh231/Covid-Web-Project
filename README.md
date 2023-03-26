@@ -1,5 +1,6 @@
 # Covid-Web-Project
-<h1>Covid Web Project</h1>
+<img src='./images/covid.png" >
+
 <h3>Problem Statement</h3>
 
 
