@@ -1,5 +1,5 @@
 # Covid-Web-Project
-<img src='./images/covid.png" >
+<img src="./images/banner-img.png" alt=""></img>
 
 <h3>Problem Statement</h3>
 
